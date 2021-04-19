@@ -11,6 +11,8 @@ int main(void)
 
 	printf("Hello World\n");
 
+	printf("How are you doing today? \n");
+
 
 	return EXIT_SUCCESS;
 
